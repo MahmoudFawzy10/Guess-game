@@ -34,7 +34,7 @@
 
 ### 📈 **Development Journey:**
 
-mermaid
+```mermaid
 graph TD;
   A[HTML5 ✅] --> B[CSS3 ✅];
   B --> C[Bootstrap 🌟 50%];
@@ -43,7 +43,7 @@ graph TD;
   E --> F[Frontend Frameworks 🌟];
   F --> G[Backend Development ⚡];
   G --> H[Full Stack Mastery 🏆];
-
+```
 
 ---
 
@@ -83,3 +83,4 @@ graph TD;
 ---
 
 ### Keep coding and learning! 🚀
+
